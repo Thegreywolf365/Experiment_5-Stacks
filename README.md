@@ -8,6 +8,8 @@ To create and initialise a stack that accepts a user input and allows them to vi
 5. Give the user an option to choose between push pop or display
 6. Call pop, push or display based on step 5 option
 7. Stop
+
+
 Functions Pop, Push and Show are created and referenced in the main.
 ## Code:
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/26576979/227753161-f839b387-fb6b-44cc-8274-954e0b43ec7d.png">
